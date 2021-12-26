@@ -14,6 +14,8 @@ I am a full-stack software engineer and writer. I love programming, writing, spe
 As a software engineer, I enjoy using my obsessive attention to detail, I like doing trial and error of code and make things that change the world. 
 That's why I like to make things that make a difference.
 
+<img align="right" alt="SVG" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
+
 <!--
 <img align="right" alt="GIF" src="https://github.com/agus-sudarmanto/agus-sudarmanto/blob/master/coding.gif?raw=true" width="408" height="318" />
 -->
